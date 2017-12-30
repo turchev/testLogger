@@ -31,8 +31,9 @@ target/
 #=== temporary directory ===
 tmp/
 
-#=== out log directory ===
+#=== out log directory and file ===
 out/
+*.log
 
 #=== other ===
 other/
